@@ -2,7 +2,7 @@
 
 Hey there! Thanks for coming here! This is the beta version of the Jorgenson-Higgins Random-Forest cpx thermobarometer. 
 
-Here you'll find two options for your thermobarometer needs. Both of these use R so we recommend that you are familar with R first!
+Here you'll find two zip folders which yo can download for your thermobarometer needs. Both of these use R so we recommend that you are familar with R first!
 
 1) Choose your own adventure: the full code with several scripts that allow you to see the root of whats happening and adjust things as you see fit.
 2) Plug and play: a single code with premade models.
