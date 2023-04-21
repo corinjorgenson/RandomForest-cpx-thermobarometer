@@ -7,7 +7,7 @@ Here you'll find two zip folders which you can download for your thermobarometer
 1) Choose your own adventure: the full code with several scripts that allow you to see the root of whats happening and adjust things as you see fit.
 2) Plug and play: a single code with premade models.
 
-*** Please note: extraTrees got archived! You can still use it but you need to import the archived version. See issues tab above for more info/help (or e-mail me!)***
+*** Please note: extraTrees got archived! The new version of the code has a work around for that! See issues tab above if you are still having troubles (or e-mail me!)***
 
 Both versions have instructions. If something isn't working for you then please let us know (corin.jorgenson@unige.ch).
 
